@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+[![jawee's github stats](https://github-readme-stats.vercel.app/api?username=jawee&count_private=true&show_icons=true)](https://github.com/jawee)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jawee&hide=php)](https://github.com/jawee)
+
 <!--
 **jawee/jawee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
